@@ -613,6 +613,9 @@ margin-top: 50px;
     left: 5%;
     bottom: 5%;
 }
+.subscribe{
+    padding: 14px 90px;
+}
 }
 @media screen and (min-width:600px) and (max-width:992px){
     nav,form,.tour-details , .grid-1,.grid-2,.grid-3,.place-container,
