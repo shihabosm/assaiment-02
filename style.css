@@ -263,6 +263,7 @@ padding: 30px;
     background: rgba(41, 206, 246, 0.05);
     padding: 30px;
     max-width: 570px;
+    margin-top: 20px;
 }
 .place-container{
     display: flex;
@@ -295,6 +296,7 @@ line-height: 1.62rem; /* 162.5% */
     height: 500px;
   position: relative;
   margin-bottom: 30px;
+  margin-top: 50px;
 }
 .deals .deal-content-1{
 
@@ -354,6 +356,7 @@ padding: 14px 24px;
     height: 500px;
   position: relative;
   margin-bottom: 30px;
+ 
 }
 .deal-content-2{
     position: absolute;
@@ -472,6 +475,9 @@ line-height: 1.62rem; /* 162.5% */
 }
 .form-content2{
     width: 60%;
+}
+.form-content2 img{
+    width: 100%;
 }
 .subscribe{
     border-radius: 8px;
